@@ -1,0 +1,1 @@
+this is a simple program that you use to find the average of ten test scores

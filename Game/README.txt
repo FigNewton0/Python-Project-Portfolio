@@ -1,0 +1,1 @@
+This is an anime dating text adventure game
