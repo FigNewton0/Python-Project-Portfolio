@@ -1,0 +1,1 @@
+Gives the definition and you ahve to guess the word. then you try to find the word in the crossword and put in its location.

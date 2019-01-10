@@ -1,0 +1,1 @@
+Trivia game has ten multiple choice answers that keep track of your score.

@@ -1,0 +1,81 @@
+Python While loops
+While True:
+will loop forever but can be interrupted using the Python keyword "end" inside the loop.
+False
+True
+
+
+1
+True
+Python
+What is python?
+A snake
+A high level programming language
+Java 2.0
+Linux
+2
+Python is a high level general purpose coding language.
+Binary
+What is binary for python?
+01101100 01101001 01101110 01110101 01111000
+01101100 01101111 01100111 01100001 01101110 01100111
+01110000 01111001 01110100 01101000 01101111 01101110
+01101010 01100001 01110110 01100001
+3
+01110000 01111001 01110100 01101000 01101111 01101110 = python in binary you pleb.
+Input
+What is input?
+What the computer gives the user
+What the user gives the computer
+
+
+2
+Input is what the user gives the computer.
+Output
+What is output?
+What the computer gives the user
+What the user gives the computer
+
+
+1
+Output is what the computer gives the user.
+Whole numbers
+Whole numbers are called what in python?
+Complex Numbers
+Decimals
+Floating numbers
+Integers
+4
+Integers
+Prompt?
+What is the python prompt?
+>>
+>>>
+#
+=
+2
+>>>
+Turtle
+What is an attribute of a turtle?
+Color
+Forward
+Down
+Dot
+1
+Color
+Finished calculation
+You have entered in a calculation what key do you press to see the result?
+Spacebar
+Tab
+Enter
+=
+3
+Enter
+Python Interpreter
+You can type commands interactivley at the Python shell by opening a
+Expression
+Session
+Listing
+Object
+2
+Session
