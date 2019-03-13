@@ -1,0 +1,1 @@
+A simple countdown timer from 40 used for CounterStrike:GlobalOffensive
